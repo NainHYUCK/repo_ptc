@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("github Test~");
+    printf("github Test~ change!");
     return 0;
 }
